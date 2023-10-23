@@ -1,6 +1,6 @@
-# Driven Decisions: Forecasting Car Resale Prices through Data Analysis
-- Car Resale Value Prediction
-
+# Car Resale Value Prediction
+- Driven Decisions: Forecasting Car Resale Prices through Data Analysis
+  
 ## Description
 - Focused on understanding relations between different variables and price
 - Identified influential variables and experimented with various models 
